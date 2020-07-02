@@ -1,0 +1,24 @@
+tre meccanismi fondamentali:
+-Missioni: riceve l'interfaccia, e indicazioni di compiti da svolgere, attraverso i quali riceve punti e missioni successive.
+-Diegetiche: missioni che richiedono la comprensione di aspetti o ogetti in mostra al museo. Senza questa comprensione le 
+missioni non possono essere completate.
+-Confidenziali:ambientazione e story line di mistero (delitto, investigazione ecc..)
+
+Game Design tre componenti in ogni gioco:
+- le meccaniche sono le componenti atomiche del gioco (regole del gioco, numero di giocatori, interazioni, ecc..)
+- le dinamiche descrivono il funzionamento del gioco: strategie, obiettivi. (conquistare oceania Risiko, arrocco scacchi ecc..)
+- le estetiche, modo in cui fai divertite i giocatori: sfide, collaborazione ecc..
+
+4 principali motivatori RAMP:
+- Relazionalità: permettere di interagire agli utenti tra di loro
+- Autonomia: lasciare al giocatore la scelta delle proprie azioni per completare il gioco
+- Padronanza: fornire sfide sempre più difficili.
+- Scopo: non proporre esercizi ma missioni,e inserire attività da svolgere in un contesto più ampio
+
+
+BRUNER
+– Mentalità realizzativa: sapere dove ci si trova, in quale posizione,
+muoversi in un ambiente, manipolare oggetti
+– Mentalità iconica: riconoscere, confrontare, configurare, concretizzare
+– Mentalità simbolica: astrarre, concatenare catene di passi logici,
+dedurre 
