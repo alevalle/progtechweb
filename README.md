@@ -19,29 +19,29 @@ Ogni gioco è una storia immersiva con un ambientazione
 precisa e un obiettivo preciso, in cui hanno un ruolo chiave
 alcuni oggetti reali (missioni diegetiche confidenziali).
 • I giochi sono di tre tipi:
-– individuale,
-– piccolo gruppo (2-5 ragazzi) o
-– classe (15-25 ragazzi organizzati in piccoli gruppi paralleli,
-indipendenti ed in competizione)
+  – individuale,
+  – piccolo gruppo (2-5 ragazzi) o
+  – classe (15-25 ragazzi organizzati in piccoli gruppi paralleli,
+    indipendenti ed in competizione)
 • Gli studenti sono di tre fasce d'età:
-– 7-10 anni: molte attività realizzative e iconiche, poche simboliche
-– 11-14 anni: molte attività iconiche e simboliche, poche realizzative
-– 15-18 anni: molte attività simboliche
+  – 7-10 anni: molte attività realizzative e iconiche, poche simboliche
+  – 11-14 anni: molte attività iconiche e simboliche, poche realizzative
+  – 15-18 anni: molte attività simboliche
 
 Le storie sono organizzate in missioni composte da attività, di tipo
 spiegazione o sfida.
-– Le attività di tipo spiegazione sono testi, immagini, video, ecc. che l'utente
-percepisce passivamente e che servono per dare contesto, background e
-scopi.
-– Le attività di tipo sfida (quest) sono richieste che spingono l'utente a fare
-qualcosa, cercare qualcosa, usare qualcosa, o riflettere su qualcosa.
-Ogni attività si conclude con un'azione dell'utente per proseguire a
-quella successiva.
-– La conclusione di una spiegazione è il click di un pulsante o una cosa del
-genere per passare alla successiva
-– la conclusione di una sfida è l'input di un dato che corrisponde alla soluzione
-di un enigma o la dimostrazione del completamento
-di un'azione: dati, testi, fotografie, ecc
+  – Le attività di tipo spiegazione sono testi, immagini, video, ecc. che l'utente
+    percepisce passivamente e che servono per dare contesto, background e
+    scopi.
+  – Le attività di tipo sfida (quest) sono richieste che spingono l'utente a fare
+    qualcosa, cercare qualcosa, usare qualcosa, o riflettere su qualcosa.
+    Ogni attività si conclude con un'azione dell'utente per proseguire a
+    quella successiva.
+  – La conclusione di una spiegazione è il click di un pulsante o una cosa del
+    genere per passare alla successiva
+  – la conclusione di una sfida è l'input di un dato che corrisponde alla soluzione
+    di un enigma o la dimostrazione del completamento
+    di un'azione: dati, testi, fotografie, ecc
 
 Per passare alla attività successiva, l'input dell'utente va vagliato da
 un'apposita procedura (che può e deve essere diversa caso per
@@ -49,10 +49,10 @@ caso), e dà parere positivo o negativo alla prosecuzione, o, con
 storie parallele, indica in quale sottosequenza di attività si è andato
 a cacciare l'utente.
 Esistono tre tipi di risposte corrette:
-– E' stata sottomessa una risposta purchessia (presenza/assenza)
-– E' stata sottomessa una risposta accettabile (valore esatto, valore
-presente in una lista di valori, valore in un range di valori, ecc.)
-– E' stata sottomessa una risposta che ha generato una risposta positiva in
+  – E' stata sottomessa una risposta purchessia (presenza/assenza)
+  – E' stata sottomessa una risposta accettabile (valore esatto, valore
+    presente in una lista di valori, valore in un range di valori, ecc.)
+  – E' stata sottomessa una risposta che ha generato una risposta positiva in
 un servizio server-side black-box (solo 9CFU)
 Ad ogni classe di risposta corrisponde la selezione di un'attività successiva, che
 può essere obbligata oppure a scelta tra più attività o
