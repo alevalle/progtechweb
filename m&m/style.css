@@ -1,0 +1,21 @@
+body {
+  padding-top: 30px;
+  color: #black;
+  font-family: 'Arial', sans-serif;
+}
+
+.testo-centrato {
+  text-align: center;
+}
+
+.img-centrata {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+ width: 350px;
+ height: 200px;
+ color: #black;
+}
